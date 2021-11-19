@@ -7,6 +7,11 @@ authors = ["Gabriel Watkinson <gabriel.watkinson@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 numpy = "^1.21.0"
+matplotlib = "^3.4.2"
+beautifulsoup4 = "^4.9.3"
+requests = "^2.26.0"
+selenium = "^3.141.0"
+urllib3 = "^1.26.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
